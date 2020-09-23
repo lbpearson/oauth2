@@ -1,5 +1,5 @@
 {
-  "name": "lbp/oauth2-azure",
+  "name": "lbpearson/oauth2-azure",
   "description": "Azure Active Directory OAuth 2.0 Client Provider for LBP",
   "authors": [
     {
